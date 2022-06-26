@@ -57,3 +57,5 @@ const swiper = new Swiper('.swiper', {
     enabled: 'true'
   },
 });
+
+alert('Адаптация не сделана. Работал 8ч±. Использовал препроцессор SASS. Иконок взял из Font-Awesome. Эвенты для кнопок не добавил');
